@@ -76,3 +76,4 @@ Based on this graph there is a difference between high school graduates, and the
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+There is a difference between the variables. Because of this we reject the null hypothesis
