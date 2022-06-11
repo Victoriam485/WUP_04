@@ -71,9 +71,9 @@ plot(TukeyHSD(model1),las=2)
 ```
 
 
-Based on this graph there is a difference between high school graduates, and there is also a difference between less than high school and graduate This is because the levels do not cross over zero.
+Based on this graph there is a difference between high school graduates, and there is also a difference between less than high school and graduate students. This is because the levels do not cross over zero.
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-There is a difference between the variables. Because of this we reject the null hypothesis.
+The p value is 0.000236 and there is a difference between the variables (WORDSUM & DEGREE). Because of this we reject the null hypothesis.
